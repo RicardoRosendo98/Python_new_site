@@ -1,2 +1,3 @@
-# Python_new_site
-Desenvolvimento com python
+# Iniciando um Projeto em Djando 
+
+Prepação de ambiente
