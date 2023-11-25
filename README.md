@@ -1,4 +1,4 @@
-![Teste](../../Captura%20de%20tela%202023-11-25%20011837.png)
+![Teste](./assets/teste.png)
 # Testando Modelos Django
 
 Testing Library
