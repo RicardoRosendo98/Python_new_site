@@ -1,4 +1,4 @@
-![Teste](./assets/teste.png)
+![Teste](C:\Users\Wellington\Downloads\Programas\ebac\backend_Ebac\mysite\Python_new_site\assets\teste.png)
 # Testando Modelos Django
 
 Testing Library
